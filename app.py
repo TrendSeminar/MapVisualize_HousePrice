@@ -101,7 +101,7 @@ def prepare_data(df, aptdeal_wide, period='2020-09'):
     _df["ave_price"] = _df[period].apply(round)
     return _df
 
-dd
+
 @st.cache(show_spinner=False, allow_output_mutation=True)
 def load_data():
     aptdeal = pd.read_csv('https://raw.githubusercontent.com/TrendSeminar/MapVisualize_HousePrice/main/sample_data/deal_average.csv')

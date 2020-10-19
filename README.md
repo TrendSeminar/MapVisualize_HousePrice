@@ -10,10 +10,8 @@ This project demonstrates the house price fluctuations in units of 25 administra
 
 #### How to run this demo
 ```
-git clone https://github.com/TrendSeminar/MapVisualize_HousePrice.git
-cd MapVisualize_HousePrice
 pip install --upgrade streamlit pydeck pandas
-streamlit run app.py
+streamlit run https://raw.githubusercontent.com/TrendSeminar/MapVisualize_HousePrice/main/app.py
 ```
 
 
