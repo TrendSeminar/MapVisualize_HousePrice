@@ -28,7 +28,7 @@ def main():
             deck.pydeck_chart(generate_layer(period, cur_df))
 
     
-    st.markdown("Reference  \n*Apartment Sale Price API* from Ministry of Land, Infrastructure and Transport")
+    st.markdown("Reference  \n*Apartment Transaction Price API* from Ministry of Land, Infrastructure and Transport")
 
 
 def update(time_idx, period_info, period_slide_info, description):

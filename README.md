@@ -5,7 +5,7 @@
 This project demonstrates the house price fluctuations in units of 25 administrative districts in Seoul, South Korea into an interactive [Streamlit](https://streamlit.io) app. The unit is KRW/3.3m^2 (3.3m^2 = 1 pyeong, Korean unit of land).
 
 
-![Making-of Animation](https://raw.githubusercontent.com/TrendSeminar/MapVisualize_HousePrice/main/src/streamlit-app.mp4 "Making-of Animation")
+![Making-of Animation](https://raw.githubusercontent.com/TrendSeminar/MapVisualize_HousePrice/main/src/streamlit-app.webm "Making-of Animation")
 
 
 #### How to run this demo
@@ -18,4 +18,4 @@ streamlit run app.py
 
 
 ### Reference
-Data from [Apartment Transaction Price API](https://www.data.go.kr/data/15057511/openapi.do) from Ministry of Land, Infrastructure and Transport.
+Data: [[Apartment Transaction Price API](https://www.data.go.kr/data/15057511/openapi.do)] from MOLIT of Korea.
