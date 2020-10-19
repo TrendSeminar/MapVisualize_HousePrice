@@ -2,11 +2,10 @@
 [[Seongyong Kim](http://syoi92.github.io)], [[Rightstone](https://)]
 
 
-This project demonstrates the house price fluctuations in units of 25 administrative districts in Seoul, South Korea, into an interactive app using [Pydeck](https://deckgl.readthedocs.io/en/latest/) and [Streamlit](https://streamlit.io).
+This project demonstrates the house price fluctuations in units of 25 administrative districts in Seoul, South Korea, into an interactive app using [Pydeck](https://deckgl.readthedocs.io/en/latest/) and [Streamlit](https://streamlit.io). The unit is KRW/3.3m^2 (3.3m^2 = 1 pyeong, Korean unit of land).
 
 
-![Making-of Animation](https://raw.githubusercontent.com/TrendSeminar/MapVisualize_HousePrice/main/src/streamlit-app.gif "Making-of Animation")  
-The unit is KRW/3.3m^2 (3.3m^2 = 1 pyeong, Korean unit of land).
+![Making-of Animation](https://raw.githubusercontent.com/TrendSeminar/MapVisualize_HousePrice/main/src/streamlit-app.gif "Making-of Animation")
 
 
 #### How to run this demo
