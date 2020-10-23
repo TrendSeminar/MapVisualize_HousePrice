@@ -1,7 +1,6 @@
 # House Price Fluctuations in Seoul, South Korea
-[[Seongyong Kim](http://syoi92.github.io)], [[Rightstone](https://)]
-
-#### Data: [[Apartment Transaction Price API](https://www.data.go.kr/data/15057511/openapi.do)] from MOLIT of Korea.
+[[Seongyong Kim](http://syoi92.github.io)], [[Rightstone](https://)]  
+**Data**: [[Apartment Transaction Price API](https://www.data.go.kr/data/15057511/openapi.do)] from MOLIT of Korea  
 
 
 
@@ -18,12 +17,13 @@ This project demonstrates the house price fluctuations in units of 25 administra
 ```
 pip install --upgrade streamlit pydeck pandas
 streamlit run https://raw.githubusercontent.com/TrendSeminar/MapVisualize_HousePrice/main/app.py
-```
-
-
+``` 
+&nbsp;
+&nbsp;
+  
 
 ## 2. Line chart race 
 
 We illustrate the same content through the line-chart race based on [Plotly](https://plotly.com/python/).
 
-!["linechart_sample"](https://raw.githubusercontent.com/TrendSeminar/MapVisualize_HousePrice/main/src/linechart_race.gif "linechart_sample"){: width="700"}
+!["linechart_sample"](https://raw.githubusercontent.com/TrendSeminar/MapVisualize_HousePrice/main/src/linechart_race.gif "linechart_sample")
